@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamza1921
+- 👋 Hi, I’m BoTa
 - 👀 I’m interested in SAMP, Pawn scripting, HTML-CSS-JS
 - 🌱 I’m currently learning Pawn scripting and HTML-CSS-JS
 - 💞️ I’m looking to collaborate on ...
